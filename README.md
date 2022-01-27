@@ -1,7 +1,9 @@
 ## Hello, I'm Mathaus Huber 👋
 
 #### Programmer, 23 years old, currently working with Web Development, focusing on mobile applications and web platform responsiveness.
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.mathaushuber.com)
+[![Blog](https://img.shields.io/badge/www.mathaushuber.com-site-blue)](https://www.mathaushuber.com)
+
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mathaus.huber/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathaushuber/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathaus-huber)
