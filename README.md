@@ -1,4 +1,6 @@
 ## Hello, I'm Mathaus Huber 👋
+
+#### Programmer, 23 years old, currently working with Web Development, focusing on mobile applications and web platform responsiveness.
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.mathaushuber.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mathaus.huber/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathaushuber/)
@@ -22,20 +24,8 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
-
+<br>
+<p>Currently studying Javascript technologies, focusing on the front-end. Addressing some projects using the Vue.js framework, a different skill from those I consider in my profile, having a good command of the tool. On the backend, currently studying node.js, where I consider in the intermediate learning process.</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuberM1998&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**HuberM1998/HuberM1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
