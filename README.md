@@ -1,6 +1,6 @@
 ## Hello, I'm Mathaus Huber 👋
 
-#### Programmer, 23 years old, currently working with Web Development, focusing on mobile applications and web platform responsiveness.
+Programmer, 23 years old, currently working with Web Development, focusing on mobile applications and web platform responsiveness.
 [![Blog](https://img.shields.io/badge/www.mathaushuber.com-site-blue)](https://www.mathaushuber.com)
 
 
