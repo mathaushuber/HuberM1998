@@ -2,7 +2,11 @@
 
 <a href="https://www.mathaushuber.com"><img align='right' src="/.github/profile.svg" width="300"></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuberM1998&show_icons=true&theme=tokyonight)
+<div style="display: inline_block">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuberM1998&layout=compact&langs_count=7&theme=github_dark"/>
+<a href="https://www.mathaushuber.com"><img align='right' src="/.github/linkedin.svg" width="100"></a>
+<a href="https://www.mathaushuber.com"><img align='right' src="/.github/medium.svg" width="100"></a>
+</div>
 
 ### Developer skills 💡
 <div style="display: inline_block">
