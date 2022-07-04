@@ -4,8 +4,8 @@
 
 <div style="display: inline_block">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuberM1998&layout=compact&langs_count=7&theme=github_dark"/>
-<a href="https://www.mathaushuber.com"><img align='left' src="/.github/linkedin.svg" width="100"></a>
-<a href="https://www.mathaushuber.com"><img align='left' src="/.github/medium.svg" width="100"></a>
+<a href="https://www.linkedin.com/in/mathaus-huber/"><img align='left' src="/.github/linkedin.svg" width="50"></a>
+<a href="https://medium.com/@mathaushuber"><img align='left' src="/.github/medium.svg" width="50"></a>
 </div>
 
 ### Developer skills 💡
