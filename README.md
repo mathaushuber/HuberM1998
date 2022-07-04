@@ -1,6 +1,6 @@
 ## Hello, I'm Mathaus Huber 👋
 
-<img align='right' src="/.github/profile.svg" width="350">
+<img align='right' src="/.github/profile.svg" width="300">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuberM1998&show_icons=true&theme=tokyonight)
 
