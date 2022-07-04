@@ -1,12 +1,6 @@
 ## Hello, I'm Mathaus Huber 👋
 
-Programmer, 23 years old, currently working with Web Development, focusing on mobile applications and web platform responsiveness.
-[![Blog](https://img.shields.io/badge/www.mathaushuber.com-site-blue)](https://www.mathaushuber.com)
-
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mathaus.huber/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathaushuber/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathaus-huber)
+<img align='right' src="/.github/profile.svg" width="350">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuberM1998&show_icons=true&theme=tokyonight)
 
@@ -28,6 +22,4 @@ Programmer, 23 years old, currently working with Web Development, focusing on mo
 </div>
 <br>
 <p>Currently studying Javascript technologies, focusing on the front-end. Addressing some projects using the Vue.js framework, a different skill from those I consider in my profile, having a good command of the tool. On the backend, currently studying node.js, where I consider in the intermediate learning process.</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuberM1998&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
