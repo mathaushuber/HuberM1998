@@ -1,9 +1,20 @@
 ## Hello, I'm Mathaus Huber 👋
 
-<a href="https://www.mathaushuber.com"><img align='right' src="/.github/profile.svg" width="300"></a>
+<div style="display: inline_block">
+<a href="https://www.mathaushuber.com"><img align='left' src="/.github/website.svg"></a>
+<a href="https://www.mathaushuber.com"><img align='left' src="/.github/linkedin(1).svg"></a>
+<a href="https://www.mathaushuber.com"><img align='left' src="/.github/medium(1).svg"></a>
+<a href="https://www.mathaushuber.com"><img align='left' src="/.github/instagram(1).svg"></a>
+</div>
+
+<br>
+<br>
+
+<p>Currently studying Javascript technologies, focusing on the front-end. Addressing some projects using the Vue.js framework, a different skill from those I consider in my profile, having a good command of the tool. On the backend, currently studying node.js, where I consider in the intermediate learning process.</p>
 
 <div style="display: inline_block">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuberM1998&layout=compact&langs_count=7&theme=github_dark"/>
+
 </div>
 
 <br>
@@ -20,9 +31,4 @@
 </div>
 
 <br>
-<p>Currently studying Javascript technologies, focusing on the front-end. Addressing some projects using the Vue.js framework, a different skill from those I consider in my profile, having a good command of the tool. On the backend, currently studying node.js, where I consider in the intermediate learning process.</p>
 
-<div style="display: inline_block">
-<a href="https://www.linkedin.com/in/mathaus-huber/"><img align='left' src="/.github/linkedin.svg" width="50"></a>
-<a href="https://medium.com/@mathaushuber"><img align='left' src="/.github/medium.svg" width="50"></a>
-</div>
