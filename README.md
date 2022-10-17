@@ -14,7 +14,7 @@
 
 <div style="display: inline_block">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuberM1998&layout=compact&langs_count=7&theme=github_dark"/>
-
+<img height="180em" src="/.github/code.gif">
 </div>
 
 <br>
